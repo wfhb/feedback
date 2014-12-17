@@ -1,4 +1,10 @@
-feedback
+wfhb/feedback
 ========
 
-WFHB Feedback
+Thanks to [Zach Holman](https://github.com/holman) for his [feedback](https://github.com/holman/feedback) juice.
+
+This repository is for general feedback and questions at WFHB Community Radio. To submit feedback or ask us a question, please [create a new issue](https://github.com/wfhb/feedback/issues/new) on this project.
+
+If you have a specific or urgent question, please [contact](http://wfhb.org/contact/) the radio station directly.
+
+You can also message us on [Twitter](https://twitter.com/wfhb)
